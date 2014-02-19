@@ -1,0 +1,29 @@
+BH_ID;BH_Name;Pack_Name;Top_mOD
+10;A104;Made ground;4.610
+10;A104;Alluvial/intertidal muds;1.010
+10;A104;Peat;0.110
+10;A104;Glacio-fluvial terrace;-0.590
+12;A164;Made ground;5.300
+12;A164;Alluvial/intertidal muds;0.700
+12;A164;Glacio-fluvial terrace;-1.100
+5;B27;Made ground;1.960
+5;B27;Alluvial/intertidal muds;1.160
+5;B27;Peat;-1.040
+5;B27;Fluvial silts and sands;-2.040
+5;B27;Glacio-fluvial terrace;-3.140
+18;GBH2;Made ground;4.710
+18;GBH2;Backfill;-1.190
+18;GBH2;Peat;-1.270
+18;GBH2;Fluvial silts and sands;-1.470
+18;GBH2;Glacio-fluvial terrace;-3.040
+19;GBH3;Made ground;4.680
+19;GBH3;Alluvial/intertidal muds;0.430
+19;GBH3;Peat;-0.570
+19;GBH3;Fluvial silts and sands;-1.120
+19;GBH3;Glacio-fluvial terrace;-2.470
+20;GBH4;Made ground;5.410
+20;GBH4;Alluvial/intertidal muds;0.810
+20;GBH4;Lost;-0.340
+20;GBH4;Peat;-0.590
+20;GBH4;Fluvial silts and sands;-0.740
+20;GBH4;Glacio-fluvial terrace;-2.490
